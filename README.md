@@ -21,12 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-====================
 References:
+====================
 https://www.w3schools.com/
 
-=====================
 Project Gutenberg Modifications
+=====================
 - Extrated the individual CSS styles from each HTML file to `styles.css`
 - Made the images have rounded corners
 - Made the image caption(figcaption) bold if there exists image caption 
