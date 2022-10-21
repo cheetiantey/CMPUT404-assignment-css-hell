@@ -1,5 +1,6 @@
 /* Referenced https://www.w3schools.com/css/ 
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header */
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header 
+and other https://www.w3schools.com resources */
 
 body {
     background-color: blue;
@@ -54,6 +55,7 @@ div {
     font-size: 20px;
     color: crimson;
     display: block;
+    background-color: lime;
 }
 
 .sidenav p {
@@ -63,6 +65,7 @@ div {
     color: blueviolet;
     display: block;
     font-weight: bold;
+    background-color: blanchedalmond;
     
 }
   
