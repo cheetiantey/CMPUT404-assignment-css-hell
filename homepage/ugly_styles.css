@@ -1,0 +1,68 @@
+/* Referenced https://www.w3schools.com/css/ 
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_style_header */
+
+body {
+    background-color: blue;
+}
+
+img {
+    border: 25px solid maroon;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(236, 174, 255);
+    background-color: orangered;
+}
+
+.header {
+    padding: 50px;
+    text-align: center;
+    background: #7d7a00;
+    color: #db600e;
+    font-size: 20px;
+}
+
+.main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: darkgreen;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+  
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: crimson;
+    display: block;
+}
+
+.sidenav p {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    color: blueviolet;
+    display: block;
+    font-weight: bold;
+    
+}
+  
